@@ -1,0 +1,21 @@
+Eponymical Games privacy subdomain technical notes
+
+Purpose:
+- Serve the Privacy Policy at https://privacy.eponymicalgames.com/.
+- The source page is copied from the canonical website repo:
+  /Users/phil/Documents/Codex Projects/eponymical-games/privacy-policy.html
+
+Hosting:
+- GitHub repository: https://github.com/J3d1-fm/eponymical-games-privacy
+- GitHub Pages source: main branch, repository root.
+- Custom domain file: CNAME contains privacy.eponymicalgames.com.
+
+DNS requirement:
+- Add CNAME record:
+  privacy.eponymicalgames.com -> j3d1-fm.github.io
+- On 2026-06-27 this DNS record was not present, so the subdomain did not
+  resolve even though the Pages repository was prepared.
+
+Canonical fallback:
+- https://eponymicalgames.com/privacy-policy.html
+

@@ -1,0 +1,10 @@
+2026-06-27
+
+- Created standalone GitHub Pages repository for the Privacy Policy subdomain.
+- Added full Privacy Policy HTML, CNAME, README and technical notes.
+- Internal navigation points to absolute canonical URLs so the subdomain page
+  does not depend on sibling files.
+
+Rollback:
+- Use the canonical website Privacy Policy at
+  https://eponymicalgames.com/privacy-policy.html if the subdomain is not ready.
