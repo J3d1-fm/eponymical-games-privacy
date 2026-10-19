@@ -3,7 +3,7 @@ Eponymical Games privacy subdomain technical notes
 Purpose:
 - Serve the Privacy Policy at https://privacy.eponymicalgames.com/.
 - The source page is copied from the canonical website repo:
-  /Users/phil/Documents/Codex Projects/eponymical-games/privacy-policy.html
+  /Users/phil/CodexProjects/eponymical-games/privacy-policy.html
 
 Hosting:
 - GitHub repository: https://github.com/J3d1-fm/eponymical-games-privacy
